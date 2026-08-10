@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
