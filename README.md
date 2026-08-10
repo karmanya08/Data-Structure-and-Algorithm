@@ -24,6 +24,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
