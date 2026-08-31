@@ -35,10 +35,12 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
