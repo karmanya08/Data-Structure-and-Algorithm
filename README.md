@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
