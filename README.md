@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
