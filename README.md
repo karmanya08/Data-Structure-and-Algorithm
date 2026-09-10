@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -24,6 +25,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
