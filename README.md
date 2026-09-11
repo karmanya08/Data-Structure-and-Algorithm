@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
@@ -39,6 +40,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
 ## Bit Manipulation
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
