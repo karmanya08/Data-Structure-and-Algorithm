@@ -118,4 +118,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
