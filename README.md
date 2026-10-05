@@ -128,8 +128,17 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
