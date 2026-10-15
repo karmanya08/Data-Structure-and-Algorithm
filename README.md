@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
@@ -75,17 +76,20 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0147-insertion-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -155,4 +159,8 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
