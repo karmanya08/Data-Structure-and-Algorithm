@@ -94,6 +94,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
