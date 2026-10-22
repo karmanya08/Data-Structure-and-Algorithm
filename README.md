@@ -27,6 +27,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
@@ -70,6 +71,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0147-insertion-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -80,6 +82,7 @@
 | [0086-partition-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Algorithm X
 |  |
