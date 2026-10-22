@@ -143,6 +143,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
@@ -181,6 +183,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
@@ -212,4 +215,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
