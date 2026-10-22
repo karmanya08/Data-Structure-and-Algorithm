@@ -62,6 +62,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0147-insertion-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
@@ -76,6 +77,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
 | ------- |
