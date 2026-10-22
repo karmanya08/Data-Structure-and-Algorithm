@@ -65,6 +65,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0147-insertion-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
