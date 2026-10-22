@@ -169,18 +169,21 @@
 | [0503-next-greater-element-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
