@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
 ## Binary Search
@@ -165,6 +166,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
