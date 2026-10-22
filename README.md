@@ -73,6 +73,7 @@
 | [0141-linked-list-cycle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0147-insertion-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
