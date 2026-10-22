@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0735-asteroid-collision](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -187,6 +189,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
