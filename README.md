@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
@@ -105,6 +106,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -156,6 +158,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
