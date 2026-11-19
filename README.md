@@ -21,6 +21,7 @@
 | [0735-asteroid-collision](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1046-last-stone-weight](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
@@ -37,6 +38,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0454-4sum-ii) |
+| [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -160,6 +163,7 @@
 | [0071-simplify-path](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
+| [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
 ## Binary Search
 |  |
 | ------- |
