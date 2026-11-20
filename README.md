@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
@@ -131,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0147-insertion-sort-list) |
