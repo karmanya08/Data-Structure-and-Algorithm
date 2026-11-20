@@ -29,6 +29,7 @@
 | [1046-last-stone-weight](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
+| [2418-sort-the-people](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0347-top-k-frequent-elements](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0454-4sum-ii) |
 | [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
+| [2418-sort-the-people](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0347-top-k-frequent-elements](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2418-sort-the-people](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
 | [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
+| [2418-sort-the-people](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
