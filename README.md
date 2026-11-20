@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
