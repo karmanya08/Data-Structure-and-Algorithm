@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
@@ -102,6 +103,7 @@
 | [0005-longest-palindromic-substring](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
@@ -127,6 +129,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -305,4 +308,12 @@
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
