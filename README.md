@@ -57,6 +57,7 @@
 | [0070-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -170,6 +171,7 @@
 | [0071-simplify-path](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0402-remove-k-digits) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
 | [2418-sort-the-people](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2418-sort-the-people) |
 ## Binary Search
@@ -299,4 +301,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
