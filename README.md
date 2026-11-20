@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
