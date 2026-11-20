@@ -24,6 +24,7 @@
 | [0811-subdomain-visit-count](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0811-subdomain-visit-count) |
 | [0912-sort-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0989-add-to-array-form-of-integer](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0989-add-to-array-form-of-integer](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0989-add-to-array-form-of-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
