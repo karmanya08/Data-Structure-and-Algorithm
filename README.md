@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -78,11 +79,13 @@
 | [0051-n-queens](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/karmanya08/Data-Structure-and-Algorithm/tree/master/0401-binary-watch) |
 ## Linked List
